@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Бесплатно Telegram Bot Python](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/besplatno-telegram-bot-python)
+[![Download Бесплатно Telegram Bot Python](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/p39IhgqP6X2A9hqTO)
 
 </div>
 
@@ -148,7 +148,7 @@
 
 <div align="center">
 
-[![Download Бесплатно Telegram Bot Python](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/besplatno-telegram-bot-python)
+[![Download Бесплатно Telegram Bot Python](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/p39IhgqP6X2A9hqTO)
 
 </div>
 
@@ -339,7 +339,7 @@
 
 <div align="center">
 
-[![Download Бесплатно Telegram Bot Python](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/besplatno-telegram-bot-python)
+[![Download Бесплатно Telegram Bot Python](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/p39IhgqP6X2A9hqTO)
 
 **Версия 6.2.0** — Бесплатный генератор Telegram ботов на Python. Май 2026 обновление. Ноль стоимости. Без платежей.
 
